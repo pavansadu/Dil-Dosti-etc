@@ -1,2 +1,6 @@
 Hi 
+<<<<<<< HEAD
 i love you.....
+=======
+this is ilu
+>>>>>>> 07a9b4feb0c17b4dbcb527be482815676e863fcc
